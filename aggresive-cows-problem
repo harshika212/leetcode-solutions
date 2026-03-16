@@ -21,7 +21,6 @@ class Solution {
         return false;
     }
 
-
     static int aggressiveCows(int[] stalls, int cows){
 
         Arrays.sort(stalls);
@@ -45,8 +44,6 @@ class Solution {
 
         return ans;
     }
-
-
     public static void main(String[] args){
 
         int stalls[] = {1,2,8,4,9};
