@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshika212/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshika212/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshika212/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshika212/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshika212/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/harshika212/leetcode-solutions/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshika212/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/harshika212/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshika212/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
