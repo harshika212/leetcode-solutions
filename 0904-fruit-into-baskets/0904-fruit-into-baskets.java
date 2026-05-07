@@ -1,6 +1,7 @@
+import java.util.*;
 class Solution {
     public int totalFruit(int[] fruits) {
-        Map<Integer,Integer> map = new HashMap<>();
+         Map<Integer, Integer> map = new HashMap<>();
         int left = 0, maxLen = 0;
 
         for (int right = 0; right < fruits.length; right++) {
