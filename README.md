@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/harshika212/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/harshika212/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshika212/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/harshika212/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/harshika212/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshika212/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshika212/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshika212/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/harshika212/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshika212/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshika212/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshika212/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshika212/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/harshika212/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshika212/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
