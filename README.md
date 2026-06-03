@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/harshika212/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshika212/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/harshika212/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshika212/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshika212/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/harshika212/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/harshika212/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
