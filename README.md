@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/harshika212/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshika212/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/harshika212/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/harshika212/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/harshika212/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshika212/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/harshika212/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshika212/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshika212/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/harshika212/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Greedy
 |  |
 | ------- |
