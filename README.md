@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/harshika212/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/harshika212/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshika212/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -187,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/harshika212/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshika212/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/harshika212/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshika212/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/harshika212/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
