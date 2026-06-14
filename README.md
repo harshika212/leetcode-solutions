@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/harshika212/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshika212/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/harshika212/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/harshika212/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/harshika212/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/harshika212/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshika212/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
