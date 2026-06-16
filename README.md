@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshika212/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harshika212/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2299-strong-password-checker-ii](https://github.com/harshika212/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 ## Greedy
 |  |
 | ------- |
