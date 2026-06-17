@@ -14,7 +14,7 @@ class Solution {
             right--;
         }
         }  
-        ans[s.length()]=left;
+        ans[s.length()]=right;
         return ans;
     }
 }
