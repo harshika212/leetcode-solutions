@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshika212/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/harshika212/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshika212/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0824-goat-latin](https://github.com/harshika212/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/harshika212/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/harshika212/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshika212/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
