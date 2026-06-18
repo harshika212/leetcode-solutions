@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/harshika212/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/harshika212/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshika212/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2810-faulty-keyboard](https://github.com/harshika212/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/harshika212/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/harshika212/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
+| [2810-faulty-keyboard](https://github.com/harshika212/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Greedy
 |  |
 | ------- |
