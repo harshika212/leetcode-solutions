@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshika212/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/harshika212/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshika212/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/harshika212/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/harshika212/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/harshika212/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/harshika212/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -302,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/harshika212/leetcode-solutions/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harshika212/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
