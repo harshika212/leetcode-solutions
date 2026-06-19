@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshika212/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshika212/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshika212/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/harshika212/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshika212/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/harshika212/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshika212/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshika212/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshika212/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshika212/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshika212/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harshika212/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshika212/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshika212/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshika212/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1859-sorting-the-sentence](https://github.com/harshika212/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Interactive
 |  |
