@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshika212/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshika212/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshika212/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2325-decode-the-message](https://github.com/harshika212/leetcode-solutions/tree/master/2325-decode-the-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/harshika212/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/harshika212/leetcode-solutions/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/harshika212/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2810-faulty-keyboard](https://github.com/harshika212/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Greedy
 |  |
