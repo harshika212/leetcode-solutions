@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/harshika212/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/harshika212/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshika212/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/harshika212/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshika212/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshika212/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshika212/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/harshika212/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/harshika212/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshika212/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/harshika212/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshika212/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/harshika212/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
