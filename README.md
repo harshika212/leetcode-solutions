@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/harshika212/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/harshika212/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/harshika212/leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2490-circular-sentence](https://github.com/harshika212/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [2810-faulty-keyboard](https://github.com/harshika212/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Greedy
 |  |
