@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/harshika212/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshika212/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshika212/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/harshika212/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/harshika212/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/harshika212/leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshika212/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/harshika212/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [2810-faulty-keyboard](https://github.com/harshika212/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 ## Greedy
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshika212/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshika212/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
