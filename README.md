@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/harshika212/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshika212/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshika212/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1695-maximum-erasure-value](https://github.com/harshika212/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/harshika212/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1813-sentence-similarity-iii](https://github.com/harshika212/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/harshika212/leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshika212/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/harshika212/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshika212/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/harshika212/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshika212/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshika212/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshika212/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/harshika212/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshika212/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshika212/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/harshika212/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshika212/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
