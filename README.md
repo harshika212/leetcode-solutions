@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshika212/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harshika212/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/harshika212/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/harshika212/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshika212/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshika212/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshika212/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/harshika212/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshika212/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/harshika212/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/harshika212/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshika212/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
@@ -381,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshika212/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/harshika212/leetcode-solutions/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harshika212/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshika212/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshika212/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
