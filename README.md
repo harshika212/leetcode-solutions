@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harshika212/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshika212/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/harshika212/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshika212/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshika212/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshika212/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshika212/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harshika212/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harshika212/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshika212/leetcode-solutions/tree/master/0342-power-of-four) |
