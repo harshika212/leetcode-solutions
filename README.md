@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/harshika212/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/harshika212/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/harshika212/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/harshika212/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshika212/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshika212/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshika212/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshika212/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/harshika212/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
