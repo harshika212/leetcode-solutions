@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harshika212/leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/harshika212/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshika212/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/harshika212/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshika212/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
