@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/harshika212/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshika212/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harshika212/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harshika212/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshika212/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshika212/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harshika212/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
